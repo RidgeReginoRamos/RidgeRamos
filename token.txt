@@ -1,0 +1,9 @@
+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
+
+https://github.com/RidgeReginoRamos/RidgeRamos.git
+https://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@github.com/RidgeRamos/CITM307.git
+git pull
+git add .
+git commit -m -"batch upload"
+git push
+
